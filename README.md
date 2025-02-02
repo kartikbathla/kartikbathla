@@ -1,4 +1,4 @@
 - 👋 Hi, I'm Kartik Bathla.
 - 👀 I’m like building and automating stuff. 
-- 🌱 I’m currently working at JP Morgan International Private Bank. 
+- 🌱 Previosuly I worked at JP Morgan International Private Bank as a Machine Leanring Engineer. 
 - 📫 How to reach me [in.linkedin.com/kartikbathla](https://www.linkedin.com/in/kartikbathla/)
